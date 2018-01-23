@@ -1,0 +1,26 @@
+{
+  "name": "assignment_recursion_sprint_node",
+  "version": "1.0.0",
+  "description": "Again and again and again and again and again...",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/oaksofmamre/assignment_recursion_sprint_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url":
+      "https://github.com/oaksofmamre/assignment_recursion_sprint_node/issues"
+  },
+  "homepage":
+    "https://github.com/oaksofmamre/assignment_recursion_sprint_node#readme",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
